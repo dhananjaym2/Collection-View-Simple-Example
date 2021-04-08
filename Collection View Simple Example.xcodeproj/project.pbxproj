@@ -13,6 +13,7 @@
 		80A6198526174F7200B87A20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80A6198326174F7200B87A20 /* Main.storyboard */; };
 		80A6198726174F7700B87A20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80A6198626174F7700B87A20 /* Assets.xcassets */; };
 		80A6198A26174F7700B87A20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80A6198826174F7700B87A20 /* LaunchScreen.storyboard */; };
+		80A61992261753BC00B87A20 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A61991261753BC00B87A20 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		80A6198626174F7700B87A20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80A6198926174F7700B87A20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80A6198B26174F7700B87A20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80A61991261753BC00B87A20 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				80A6198626174F7700B87A20 /* Assets.xcassets */,
 				80A6198826174F7700B87A20 /* LaunchScreen.storyboard */,
 				80A6198B26174F7700B87A20 /* Info.plist */,
+				80A61991261753BC00B87A20 /* MyCollectionViewCell.swift */,
 			);
 			path = "Collection View Simple Example";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				80A6198226174F7200B87A20 /* ViewController.swift in Sources */,
 				80A6197E26174F7200B87A20 /* AppDelegate.swift in Sources */,
+				80A61992261753BC00B87A20 /* MyCollectionViewCell.swift in Sources */,
 				80A6198026174F7200B87A20 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
